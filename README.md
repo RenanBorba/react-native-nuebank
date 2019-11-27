@@ -342,12 +342,12 @@ export default function Menu({ translateY }) {
 ## Interface principal
 
 
-![0](https://user-images.githubusercontent.com/48495838/69758366-179c8680-113e-11ea-91f7-e60c8b661e84.JPG)
+![0](https://user-images.githubusercontent.com/48495838/69759127-153b2c00-1140-11ea-814a-0aabb23410fc.JPG)
 
 <br><br><br>
 
 
-## Interface principal
+## Interface após arraste do card pelo usuário
 
 
 ![1](https://user-images.githubusercontent.com/48495838/69758939-a78f0000-113f-11ea-9b38-cd6b002efdb5.jpg)
@@ -355,10 +355,10 @@ export default function Menu({ translateY }) {
 <br><br><br>
 
 
-## Interface principal
+## Interface após redirecionamento do card ao rodapé da tela
 
 
-![2](https://user-images.githubusercontent.com/48495838/69758940-a78f0000-113f-11ea-8dda-4c1d0c9c9333.JPG)
+![2](https://user-images.githubusercontent.com/48495838/69759134-18ceb300-1140-11ea-8d6f-7667b1b97de9.JPG)
 
 <br><br><br>
 
