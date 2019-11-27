@@ -349,11 +349,16 @@ export default function Menu({ translateY }) {
 
 ## Interface principal
 
+
+![1](https://user-images.githubusercontent.com/48495838/69758939-a78f0000-113f-11ea-9b38-cd6b002efdb5.jpg)
+
 <br><br><br>
 
 
 ## Interface principal
 
+
+![2](https://user-images.githubusercontent.com/48495838/69758940-a78f0000-113f-11ea-8dda-4c1d0c9c9333.JPG)
 
 <br><br><br>
 
