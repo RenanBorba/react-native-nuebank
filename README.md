@@ -360,6 +360,6 @@ export default function Menu({ translateY }) {
 
 ![2](https://user-images.githubusercontent.com/48495838/69759134-18ceb300-1140-11ea-8d6f-7667b1b97de9.JPG)
 
-<br><br><br>   
+<br><br><br>  
 Renan Borba.  
 
