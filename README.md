@@ -342,7 +342,7 @@ export default function Menu({ translateY }) {
 ## Interface principal
 
 
-![0](https://user-images.githubusercontent.com/48495838/69759127-153b2c00-1140-11ea-814a-0aabb23410fc.JPG)
+![0](https://user-images.githubusercontent.com/48495838/69767111-84714a00-1159-11ea-91c9-daad95d93768.JPG)
 
 <br><br><br>
 
@@ -350,7 +350,7 @@ export default function Menu({ translateY }) {
 ## Interface após arraste do card pelo usuário
 
 
-![1](https://user-images.githubusercontent.com/48495838/69758939-a78f0000-113f-11ea-9b38-cd6b002efdb5.jpg)
+![1](https://user-images.githubusercontent.com/48495838/69767112-84714a00-1159-11ea-9c5a-0c77e977c0dd.jpg)
 
 <br><br><br>
 
@@ -358,7 +358,8 @@ export default function Menu({ translateY }) {
 ## Interface após redirecionamento do card ao rodapé da tela
 
 
-![2](https://user-images.githubusercontent.com/48495838/69766938-eaa99d00-1158-11ea-9ec0-1352ac842269.JPG)
+![2](https://user-images.githubusercontent.com/48495838/69767114-84714a00-1159-11ea-9edc-00a9d34463e8.JPG)
+
 
 <br><br><br>  
 Renan Borba.  
