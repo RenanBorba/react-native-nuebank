@@ -8,9 +8,9 @@ Aplicação Front-end Mobile desenvolvida em React Native para clone da interfac
   <li>styled-components</li>
   <li>react-native-vector-icons</li>
   <li>react-native-webview-qrcode</li>
+  <li>Animated</li>
   <li>gesture-handler</li>
   <li>PanGestureHandler</li>
-  <li>Animated</li>
   <li>State</li>
 </ul> 
 <br>
