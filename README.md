@@ -358,7 +358,7 @@ export default function Menu({ translateY }) {
 ## Interface após redirecionamento do card ao rodapé da tela
 
 
-![2](https://user-images.githubusercontent.com/48495838/69759134-18ceb300-1140-11ea-8d6f-7667b1b97de9.JPG)
+![2](https://user-images.githubusercontent.com/48495838/69766938-eaa99d00-1158-11ea-9ec0-1352ac842269.JPG)
 
 <br><br><br>  
 Renan Borba.  
