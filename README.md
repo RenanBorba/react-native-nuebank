@@ -2,9 +2,12 @@
 # Projeto Portfólio - Aplicação eBank Mobile React Native
 Aplicação Front-end Mobile desenvolvida em React Native para clone da interface principal do app Nubank, voltada para bancos eletrônicos e empresas financiadoras e de crédito. O aplicativo permite a interação do usuário com o card principal com um simples gesto de arraste, permitindo poder visualizar o menu oculto.
 <ul>
-  <li>Routes</li>
-  <li>StatusBar</li>
   <li>Components</li>
+  <li>react-navigation</li>
+  <li>Routes</li>
+  <li>Axios</li>
+  <li>Github API</li>
+  <li>StatusBar</li>
   <li>styled-components</li>
   <li>react-native-vector-icons</li>
   <li>react-native-webview-qrcode</li>
