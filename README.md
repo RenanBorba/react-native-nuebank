@@ -16,7 +16,7 @@ Aplicação Front-end Mobile desenvolvida em React Native para clone da interfac
   <li>PanGestureHandler</li>
   <li>State</li>
 </ul> 
-<br><br>
+<br><br> 
 
 
 ## src/pages/Main/index.js
