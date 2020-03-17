@@ -146,7 +146,7 @@ export default function Main() {
       <Tabs translateY={ translateY } />
     </Container>
   )
-}
+};
 ```
 <br><br>
 
@@ -178,7 +178,7 @@ export default function Header() {
       />
     </Container>
   );
-}
+};
 ```
 <br><br>
 
@@ -260,7 +260,7 @@ export default function Tabs({ translateY }) {
       </TabsContainer>
     </Container>
   );
-}
+};
 ```
 <br><br>
 
@@ -342,7 +342,7 @@ export default function Menu({ translateY }) {
       </SignOutButton>
     </Container>
   );
-}
+};
 ```
 <br><br>
 
