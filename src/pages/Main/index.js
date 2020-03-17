@@ -122,4 +122,4 @@ export default function Main() {
       <Tabs translateY={ translateY } />
     </Container>
   )
-}
+};
