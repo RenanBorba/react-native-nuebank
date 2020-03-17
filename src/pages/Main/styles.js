@@ -4,13 +4,13 @@ import { Animated } from 'react-native';
 export const Container = styled.View`
   flex: 1;
   background: #8B10AE;
-  justify-content: center;
+  justify-content: center
 `;
 
 export const Content = styled.View`
   flex: 1;
   max-height: 400px;
-  z-index: 5;
+  z-index: 5
 `;
 
 export const Card = styled(Animated.View)`
@@ -58,5 +58,5 @@ export const Annotation = styled.Text`
 export const CardFooter = styled.View`
   padding: 30px;
   background: #EEE;
-  border-radius: 4px;
+  border-radius: 4px
 `;
