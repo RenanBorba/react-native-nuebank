@@ -73,4 +73,4 @@ export default function Tabs({ translateY }) {
       </TabsContainer>
     </Container>
   );
-}
+};
