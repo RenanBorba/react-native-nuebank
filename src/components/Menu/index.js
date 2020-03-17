@@ -73,4 +73,4 @@ export default function Menu({ translateY }) {
       </SignOutButton>
     </Container>
   );
-}
+};
