@@ -20,7 +20,6 @@ Aplicação Front-end Mobile desenvolvida em React Native para clone da interfac
 
 
 ## src/pages/Main/index.js
-
 ```js
 import React from 'react';
 import Icon from 'react-native-vector-icons/MaterialIcons';
@@ -28,9 +27,9 @@ import { Animated } from 'react-native';
 import { PanGestureHandler, State }
   from 'react-native-gesture-handler';
 
-import Header from "~/components/Header";
-import Tabs from "~/components/Tabs";
-import Menu from "~/components/Menu";
+import Header from '~/components/Header';
+import Tabs from '~/components/Tabs';
+import Menu from '~/components/Menu';
 
 import {
   Container,
@@ -42,7 +41,7 @@ import {
   Title,
   Description,
   Annotation
-} from "./styles";
+} from './styles';
 
 export default function Main() {
   let offset = 0;
@@ -110,7 +109,7 @@ export default function Main() {
               translateY: translateY.interpolate({
                 inputRange: [-500, 0, 312],
                 outputRange: [-50, 0, 312],
-                extrapolate: 'clamp',
+                extrapolate: 'clamp'
               }),
             }]
           }}>
@@ -156,13 +155,14 @@ export default function Main() {
 import React from 'react';
 import Icon from 'react-native-vector-icons/MaterialIcons';
 
-import logo from "~/assets/Nubank_Logo.png";
-import { 
- Container,
- Top, 
- Logo, 
- Title 
-} from "./styles";
+import logo from '~/assets/Nubank_Logo.png';
+  import
+  {
+    Container,
+    Top,
+    Logo,
+    Title
+  } from './styles';
 
 export default function Header() {
   return (
@@ -193,7 +193,7 @@ import {
   TabsContainer,
   TabItem,
   TabText
-} from "./styles";
+} from './styles';
 
 export default function Tabs({ translateY }) {
   return (
