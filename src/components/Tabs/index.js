@@ -6,7 +6,7 @@ import {
   TabsContainer,
   TabItem,
   TabText
-} from "./styles";
+} from './styles';
 
 export default function Tabs({ translateY }) {
   return (

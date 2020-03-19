@@ -4,9 +4,9 @@ import { Animated } from 'react-native';
 import { PanGestureHandler, State }
   from 'react-native-gesture-handler';
 
-import Header from "~/components/Header";
-import Tabs from "~/components/Tabs";
-import Menu from "~/components/Menu";
+import Header from '~/components/Header';
+import Tabs from '~/components/Tabs';
+import Menu from '~/components/Menu';
 
 import {
   Container,
@@ -18,7 +18,7 @@ import {
   Title,
   Description,
   Annotation
-} from "./styles";
+} from './styles';
 
 export default function Main() {
   let offset = 0;
@@ -86,7 +86,7 @@ export default function Main() {
               translateY: translateY.interpolate({
                 inputRange: [-500, 0, 312],
                 outputRange: [-50, 0, 312],
-                extrapolate: 'clamp',
+                extrapolate: 'clamp'
               }),
             }]
           }}>
