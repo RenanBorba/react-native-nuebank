@@ -15,7 +15,7 @@ Aplicação Front-end Mobile desenvolvida em React Native para clone da interfac
   <li>gesture-handler</li>
   <li>PanGestureHandler</li>
   <li>State</li>
-</ul> 
+</ul>
 <br><br>
 
 
