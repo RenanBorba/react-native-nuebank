@@ -17,7 +17,7 @@ Aplicação Front-end Mobile desenvolvida em React Native para clone da interfac
   <li>State</li>
 </ul>
 <br><br>
-
+ 
 
 ## src/pages/Main/index.js
 ```js
