@@ -1,5 +1,24 @@
+<div align="center">
+ 
 # Projeto Portfólio - Aplicação eBank Mobile React Native
+
+</div>
+
+<br>
+
+<div align="center">
+  
+[![Build Status](https://img.shields.io/github/stars/RenanBorba/react-native-ebank.svg)](https://github.com/RenanBorba/react-native-ebank) [![npm version](https://badge.fury.io/js/react-native.svg)](https://badge.fury.io/js/react-native)
+
+</div>
+
+<br>
+
 Aplicação Front-end Mobile desenvolvida em React Native para clone da interface principal do app Nubank, voltada para bancos eletrônicos e empresas financiadoras e de crédito. O aplicativo permite a interação do usuário com o card principal com um simples gesto de arraste, permitindo poder visualizar o menu oculto.
+
+<br><br>
+
+## :rocket: Tecnologias 
 <ul>
   <li>Components</li>
   <li>Routes</li>
@@ -15,8 +34,11 @@ Aplicação Front-end Mobile desenvolvida em React Native para clone da interfac
   <li>react-native-webview-qrcode</li>
   <li>Animated</li>
 </ul>
+
 <br><br>
- 
+
+#### Segue abaixo as principais estruturas e interfaces: 
+<br><br><br>
 
 ## src/pages/Main/index.js
 ```js
