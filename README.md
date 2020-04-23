@@ -18,6 +18,14 @@ Aplicação Front-end Mobile desenvolvida em React Native para clone da interfac
 
 <br><br>
 
+<div align="center">
+
+![0](https://user-images.githubusercontent.com/48495838/69767111-84714a00-1159-11ea-91c9-daad95d93768.JPG)
+
+</div>
+
+<br><br>
+
 ## :rocket: Tecnologias 
 <ul>
   <li>Components</li>
@@ -37,8 +45,17 @@ Aplicação Front-end Mobile desenvolvida em React Native para clone da interfac
 
 <br><br>
 
-#### Segue abaixo as principais estruturas e interfaces: 
+## :arrow_forward: Start
+<ul> 
+  <li>npm install</li>
+  <li>npm run start / npm start</li>
+</ul>
+
 <br><br><br>
+
+## :mega: Segue abaixo as principais estruturas e interfaces: 
+<br><br><br>
+
 
 ## src/pages/Main/index.js
 ```js
