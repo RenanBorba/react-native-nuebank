@@ -53,7 +53,7 @@ Aplicação Front-end Mobile desenvolvida em React Native para clone da interfac
 
 <br><br><br>
 
-## :mega: Segue abaixo as principais estruturas e interfaces: 
+## :mega: Segue abaixo as principais estruturas e interface principal: 
 <br><br><br>
 
 
