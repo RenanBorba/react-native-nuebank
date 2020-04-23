@@ -1,6 +1,6 @@
 <div align="center">
  
-# Projeto Portfólio - Aplicação eBank Mobile React Native
+# Projeto - Aplicação eBank Mobile React Native
 
 </div>
 
