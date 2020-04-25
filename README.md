@@ -56,7 +56,6 @@ Aplicação Front-end Mobile desenvolvida em React Native para clone da interfac
 ## :mega: Segue abaixo as principais estruturas e interface principal: 
 <br><br><br>
 
-
 ## src/pages/Main/index.js
 ```js
 import React from 'react';
