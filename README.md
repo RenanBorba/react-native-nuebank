@@ -7,7 +7,7 @@
 <br>
 
 <div align="center">
-  
+
 [![Build Status](https://img.shields.io/github/stars/RenanBorba/react-native-ebank.svg)](https://github.com/RenanBorba/react-native-ebank) [![Build Status](https://img.shields.io/github/forks/RenanBorba/react-native-ebank.svg)](https://github.com/RenanBorba/react-native-ebank) [![npm version](https://badge.fury.io/js/react-native.svg)](https://badge.fury.io/js/react-native)
 
 </div>
