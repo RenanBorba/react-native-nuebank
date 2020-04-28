@@ -1,5 +1,5 @@
 <div align="center">
- 
+
 # Projeto - Aplicação eBank Mobile React Native
 
 </div>
@@ -53,7 +53,8 @@ Aplicação Front-end Mobile desenvolvida em React Native para clone da interfac
 
 <br><br><br>
 
-## :mega: Segue abaixo as principais estruturas e interface principal: 
+## :mega: Segue abaixo as principais estruturas e interface principal:
+
 <br><br><br>
 
 ## src/pages/Main/index.js
@@ -184,8 +185,8 @@ export default function Main() {
   )
 };
 ```
-<br><br>
 
+<br><br>
 
 ## src/components/Header/index.js
 ```js
@@ -217,8 +218,8 @@ export default function Header() {
   );
 };
 ```
-<br><br>
 
+<br><br>
 
 ## src/components/Tabs/index.js 
 ```js
@@ -299,8 +300,8 @@ export default function Tabs({ translateY }) {
   );
 };
 ```
-<br><br>
 
+<br><br>
 
 ## src/components/Menu/index.js 
 ```js
@@ -390,7 +391,6 @@ export default function Menu({ translateY }) {
 ![0](https://user-images.githubusercontent.com/48495838/69767111-84714a00-1159-11ea-91c9-daad95d93768.JPG)
 
 <br><br><br>
-
 
 ## Interface após arraste do card pelo usuário
 
