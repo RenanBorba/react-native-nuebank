@@ -26,7 +26,7 @@ Aplicação Front-end Mobile desenvolvida em React Native para clone da interfac
 
 <br><br>
 
-## :rocket: Tecnologias 
+## :rocket: Tecnologias
 <ul>
   <li>Components</li>
   <li>Routes</li>
@@ -46,7 +46,7 @@ Aplicação Front-end Mobile desenvolvida em React Native para clone da interfac
 <br><br>
 
 ## :arrow_forward: Start
-<ul> 
+<ul>
   <li>npm install</li>
   <li>npm run start / npm start</li>
 </ul>
@@ -221,7 +221,7 @@ export default function Header() {
 
 <br><br>
 
-## src/components/Tabs/index.js 
+## src/components/Tabs/index.js
 ```js
 import React from 'react';
 import Icon from 'react-native-vector-icons/MaterialIcons';
@@ -303,7 +303,7 @@ export default function Tabs({ translateY }) {
 
 <br><br>
 
-## src/components/Menu/index.js 
+## src/components/Menu/index.js
 ```js
 import React from 'react';
 import QRCode from 'react-native-webview-qrcode';
@@ -382,6 +382,7 @@ export default function Menu({ translateY }) {
   );
 };
 ```
+
 <br><br>
 
 
