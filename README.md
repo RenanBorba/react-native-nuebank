@@ -385,9 +385,7 @@ export default function Menu({ translateY }) {
 
 <br><br>
 
-
 ## Interface principal
-
 
 ![0](https://user-images.githubusercontent.com/48495838/69767111-84714a00-1159-11ea-91c9-daad95d93768.JPG)
 
@@ -403,7 +401,6 @@ export default function Menu({ translateY }) {
 
 ![2](https://user-images.githubusercontent.com/48495838/69767114-84714a00-1159-11ea-9edc-00a9d34463e8.JPG)
 
-<br><br>
-<br>
+<br><br><br>
 
 Renan Borba.
