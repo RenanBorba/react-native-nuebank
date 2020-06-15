@@ -20,7 +20,7 @@ Aplicação Front-end Mobile desenvolvida em React Native para clone da interfac
 
 <div align="center">
 
-![0](https://user-images.githubusercontent.com/48495838/69767111-84714a00-1159-11ea-91c9-daad95d93768.JPG)
+![ebank](https://user-images.githubusercontent.com/48495838/84694685-f35c9780-af1f-11ea-8aea-1c9eea5ba598.png)
 
 </div>
 
