@@ -43,7 +43,7 @@ Aplicação Front-end Mobile desenvolvida em React Native para clone da interfac
   <li>Animated</li>
 </ul>
 
-<br><br><br>
+<br><br>
 
 ## :arrow_forward: Start
 <ul>
@@ -51,7 +51,7 @@ Aplicação Front-end Mobile desenvolvida em React Native para clone da interfac
   <li>npm run start / npm start</li>
 </ul>
 
-<br><br><br>
+<br><br>
 
 ## :punch: Como contribuir
 <ul>
