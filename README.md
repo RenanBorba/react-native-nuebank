@@ -1,6 +1,6 @@
 <div align="center">
 
-# Projeto - Aplicação eBank Mobile React Native
+# Projeto - Aplicação NueBank Mobile React Native
 
 </div>
 
